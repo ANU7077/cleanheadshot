@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,22 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# CleanHeadshot
+
+CleanHeadshot is a simple and powerful online tool that lets you upload your photo and instantly remove the background using AI. Customize the background, auto-center the face, and download a high-resolution profile photo — ideal for LinkedIn, resumes, Zoom, and more.
+
+## Features
+- ✅ One-click background removal (AI-powered)
+- 🎨 Studio-style backgrounds
+- ✨ Optional photo enhancer
+- 📐 Auto-crop for profile photo sizes
+- 💾 High-res download (freemium model)
+
+## Tech Stack
+- Frontend: React + Tailwind CSS
+- Backend: Node.js / Express (or Next.js API)
+- Image Processing: remove.bg API or U-2-Net
+# cleanheadshot
+🎯 One-Click Background Remover for Profile Photos. Upload your image, remove the background using AI, and download a professional-looking headshot — perfect for LinkedIn, resumes, and IDs.
+>>>>>>> 9bd2a646a963a90cb2f5b544d95830cf9e635040
