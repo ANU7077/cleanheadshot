@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -37,16 +38,20 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 =======
 # CleanHeadshot
+=======
+   # CleanHeadshot
+>>>>>>> d3db16e18df2c86dd27568789a3ae468fa84c7a4
 
-CleanHeadshot is a simple and powerful online tool that lets you upload your photo and instantly remove the background using AI. Customize the background, auto-center the face, and download a high-resolution profile photo — ideal for LinkedIn, resumes, Zoom, and more.
+   CleanHeadshot is a simple and powerful online tool that lets you upload your photo and instantly remove the background using AI. Customize the background, auto-center the face, and download a high-resolution profile photo — ideal for LinkedIn, resumes, Zoom, and more.
 
-## Features
-- ✅ One-click background removal (AI-powered)
-- 🎨 Studio-style backgrounds
-- ✨ Optional photo enhancer
-- 📐 Auto-crop for profile photo sizes
-- 💾 High-res download (freemium model)
+   ## Features
+   - ✅ One-click background removal (AI-powered)
+   - 🎨 Studio-style backgrounds
+   - ✨ Optional photo enhancer
+   - 📐 Auto-crop for profile photo sizes
+   - 💾 High-res download (freemium model)
 
+<<<<<<< HEAD
 ## Tech Stack
 - Frontend: React + Tailwind CSS
 - Backend: Node.js / Express (or Next.js API)
@@ -54,3 +59,11 @@ CleanHeadshot is a simple and powerful online tool that lets you upload your pho
 # cleanheadshot
 🎯 One-Click Background Remover for Profile Photos. Upload your image, remove the background using AI, and download a professional-looking headshot — perfect for LinkedIn, resumes, and IDs.
 >>>>>>> 9bd2a646a963a90cb2f5b544d95830cf9e635040
+=======
+   ## Tech Stack
+   - Frontend: React + Tailwind CSS
+   - Backend: Node.js / Express (or Next.js API)
+   - Image Processing: remove.bg API or U-2-Net
+
+   🎯 One-Click Background Remover for Profile Photos. Upload your image, remove the background using AI, and download a professional-looking headshot — perfect for LinkedIn, resumes, and IDs.
+>>>>>>> d3db16e18df2c86dd27568789a3ae468fa84c7a4
